@@ -1,0 +1,10 @@
+<meta>
+	<info author="Falke" type="script" version="2.0.0" name="Taser" />
+	
+	<!-- Client side files -->
+		<script src="ClientResource.lua" type="client" />
+
+		<file src="képek/m4.dff" />
+		<file src="képek/m4.txd" />
+
+</meta>

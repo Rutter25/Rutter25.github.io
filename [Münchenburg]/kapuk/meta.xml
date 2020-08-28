@@ -1,0 +1,10 @@
+<meta>
+    <info author="Rutter25" type="script" name="kapuk" version="0.1" />
+    <script src="pd1/ticket/ticket_server.lua" type="server" />
+    <script src="pd1/gate/gate_server.lua" type="server" />
+    <script src="pd1/tutorial/client.lua" type="client" />
+    <script src="pd2/gate_server.lua" type="server" />
+    <script src="fd1/gate/gate_server.lua" type="server" />
+    <script src="bs1/gate/gate_server.lua" type="server" />
+    <script src="bs2/gate/gate_server.lua" type="server" />
+</meta>

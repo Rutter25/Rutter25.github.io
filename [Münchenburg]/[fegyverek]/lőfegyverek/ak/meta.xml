@@ -1,0 +1,9 @@
+<meta>
+	<info author="Falke" type="script" version="2.0.0" name="Taser" />
+	
+	<!-- Client side files -->
+		<script src="ClientResource.lua" type="client" />
+
+		<file src="ak47.dff" />
+		<file src="ak47.txd" />
+</meta>

@@ -1,0 +1,4 @@
+<meta>
+	<info name="Policemod sirens" author="AlternativeMe" version="1.0" type="script" />
+	<script src="siren.lua" type="server" />
+</meta>

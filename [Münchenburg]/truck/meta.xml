@@ -1,0 +1,5 @@
+<meta>
+	<info author="MoPoMaN" version="1.0" type="script" name="Trucker job" description="Trucker job resource for RPG server." />
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" />
+</meta>

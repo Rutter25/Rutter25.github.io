@@ -1,0 +1,8 @@
+<meta>
+	<info author="WorthlessCynomys" name="HUD" version="alpha" type="script" />
+
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+	<script src="needs.lua" type="client" />
+
+</meta>

@@ -1,0 +1,5 @@
+<meta>
+	<info author="Rutter25" type="script" version="1.0.0" name="paintjob" />
+    <script src="script.lua" type="client" />
+       <file src="bmw1.png" />
+</meta>

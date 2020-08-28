@@ -1,0 +1,8 @@
+<meta>
+    <info author="#C4N3L4" name="Vehicle Control" version="1.4" type="misc"/>
+	
+	
+    <script src="server.lua"/>
+    <script src="ByC4N3L4.lua" type="client"/>
+
+</meta>

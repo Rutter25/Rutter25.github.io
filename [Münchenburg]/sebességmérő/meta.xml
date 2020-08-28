@@ -1,0 +1,21 @@
+<meta>
+	<info author="gelon" name="Speedometer" type="script" version="1.0"/>
+	
+	<script src="speedo_C.lua" type="client" cache="false"/>
+	<script src="speedo_S.lua" type="server" cache="false"/>
+	<file src="font.ttf"/>
+	<file src="img/panel.png"/>
+    <file src="img/arrowSpeedometer.png"/>
+	<file src="img/arrowTachometer.png"/>
+    <file src="img/engineOn.png"/>
+	<file src="img/engineOff.png"/>
+	<file src="img/lightOff.png"/>
+	<file src="img/lightOn.png"/>
+	<file src="img/strafeLeftOff.png"/>
+	<file src="img/strafeLeftOn.png"/>
+	<file src="img/strafeRightOff.png"/>
+	<file src="img/strafeRightOn.png"/>
+	<file src="img/open.png"/>
+	<file src="img/lock.png"/>
+
+</meta>
