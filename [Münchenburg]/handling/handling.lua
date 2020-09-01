@@ -1,5 +1,8 @@
 ﻿function vhandling ( theVehicle )
-    if getElementModel(theVehicle) == 596 then -------------- vehicle Id
+	outputChatBox("Elindult")
+
+    if getElementModel(theVehicle) == 490 then -------------- vehicle Id
+       outputChatBox("596")
        -- setVehicleHandling(theVehicle, "mass", 300.0)
         --setVehicleHandling(theVehicle, "turnMass", 100)
         --setVehicleHandling(theVehicle, "dragCoeff", 4.0 )
@@ -9,10 +12,10 @@
         --setVehicleHandling(theVehicle, "tractionLoss", 1.0)
         --setVehicleHandling(theVehicle, "tractionBias", 0.48)
         setVehicleHandling(theVehicle, "numberOfGears", 5)
-        setVehicleHandling(theVehicle, "maxVelocity", 220.0)
-        setVehicleHandling(theVehicle, "engineAcceleration", 40.0 )
-        --setVehicleHandling(theVehicle, "engineInertia", 5.0)
-        setVehicleHandling(theVehicle, "driveType", "rwd")
+        setVehicleHandling(theVehicle, "maxVelocity", 250.0)
+        setVehicleHandling(theVehicle, "engineAcceleration", 25.0 )
+        setVehicleHandling(theVehicle, "engineInertia", 5.0)
+        setVehicleHandling(theVehicle, "driveType", "awd")
         setVehicleHandling(theVehicle, "engineType", "diesel")
         setVehicleHandling(theVehicle, "brakeDeceleration", 20.0)
         setVehicleHandling(theVehicle, "brakeBias", 0.60)
@@ -35,5 +38,5 @@
         --setVehicleHandling(theVehicle, "animGroup", 4) This one is disabled for now
     end
 end
-addCommandHandler("star",vhandling)
---addEventHandler ( "onPlayerVehicleEnter", getRootElement(), vhandling )
+
+addEventHandler ( "onPlayerVehicleEnter", getRootElement(), vhandling )

@@ -3,10 +3,10 @@ engineImportTXD ( txd, 596)
 dff = engineLoadDFF ( "copcarla.dff", 596 ) 
 engineReplaceModel ( dff, 596)
 
---txd = engineLoadTXD ( "firela.txd" ) 
---engineImportTXD ( txd, 544 ) 
---dff = engineLoadDFF ( "firela.dff", 544) 
---engineReplaceModel ( dff, 544)
+txd = engineLoadTXD ( "landstal.txd" )  
+engineImportTXD ( txd, 400 ) 
+dff = engineLoadDFF ( "landstal.dff", 400) 
+engineReplaceModel ( dff, 400)
 
 
 txd = engineLoadTXD ( "cheetah.txd" ) 
@@ -185,15 +185,14 @@ engineImportTXD ( txd, 487)
 dff = engineLoadDFF ( "raindanc.dff", 487) 
 engineReplaceModel ( dff, 487)
 
-txd = engineLoadTXD ( "swatvan.txd" ) 
+txd = engineLoadTXD ( "swatvan.txd" )   			
 engineImportTXD ( txd, 601) 
 dff = engineLoadDFF ( "swatvan.dff", 601) 
 engineReplaceModel ( dff, 601)
 
-txd = engineLoadTXD ( "barack.txd" ) 
-engineImportTXD ( txd, 433) 
-dff = engineLoadDFF ( "barack.dff", 433) 
-engineReplaceModel ( dff, 433)
-
+txd = engineLoadTXD ( "Utility.txd" ) 
+engineImportTXD ( txd, 554)
+dff = engineLoadDFF ( "Utility.dff", 554) 
+engineReplaceModel ( dff, 554)
 
 

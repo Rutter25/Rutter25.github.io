@@ -13,7 +13,7 @@ local elements ={
 	{"ambulan", 416},
 	{"swatvan", 601},
 	{"bus", 431},
-},
+}
 
 local sound=playSound("hang.wav",true)
 	setSoundPaused(sound, true )
@@ -28,18 +28,24 @@ else
 setSoundPaused(sound, false )
 end
 end
+
 function dontoEvent(vehicles)--Eldönti,hogy kell e bele sziréna
-	if elements=getPedOccupiedVehicle(thePlayer) then
-		if getPedOccupiedVehicleSeat(thePlayer) <=1 then
+		outputChatBox("lefutott")
+	if getPedOccupiedVehicle(thePlayer) then
+		outputChatBox("ez jó jármű")
+		if getPedOccupiedVehicleSeat(thePlayer) <= 1 then
 	outputChatBox("Döntött")
-bindKey("2","down",szirena)
+	bindKey("2","down",szirena)
+
+else unbindkey(source,"2",szirena)
+
 end
 end
 end
 
 
 addCommandHandler("dönt",dontoEvent)
-addEventHandler("onResourceStart", getRootElement(),dontoEvent)
+--addEventHandler("onResourceStart", getRootElement(),dontoEvent)
 -------------------------------------------------------------
 local sound2=playSound("duda.wav",true)
 	setSoundPaused(sound2, true )

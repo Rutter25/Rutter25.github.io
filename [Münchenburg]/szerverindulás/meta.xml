@@ -1,0 +1,4 @@
+<meta>
+      <info author="A neved" type="gamemode" name="A szerverem" description="Az első MTA szerverem"/>
+      <script src="indulas.lua"/>
+</meta>

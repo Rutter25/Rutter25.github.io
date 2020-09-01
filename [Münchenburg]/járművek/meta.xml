@@ -1,5 +1,4 @@
 <meta>
-    <script src="handling.lua" type="server" />
     <script src="sourceC.lua" type="client" />
     <script src="sourceG.lua" type="shared" />
     <file src="files/myriadproregular.ttf" />
@@ -31,9 +30,6 @@
     <file src="vehicle/farmtr1.dff" />
     <file src="vehicle/farmtr1.txd" />
 
-	<file src="vehicle/barack.dff" />
-    <file src="vehicle/barack.txd" />
-
 	<file src="vehicle/burrito.dff" />
     <file src="vehicle/burrito.txd" />
 
@@ -48,6 +44,9 @@
 
 	<file src="vehicle/trash.dff" />
     <file src="vehicle/trash.txd" />
+
+	<file src="vehicle/Utility.dff" />
+    <file src="vehicle/Utility.txd" />
 
 	<file src="vehicle/taxi.dff" />
     <file src="vehicle/taxi.txd" />
@@ -96,9 +95,9 @@
 
      <file src="vehicle/rdtrain.dff" />
     <file src="vehicle/rdtrain.txd" />
-<!-- 
-	<file src="vehicle/firela.dff" />
-    <file src="vehicle/firela.txd" /> -->
+ 
+	<file src="vehicle/landstal.dff" />
+    <file src="vehicle/landstal.txd" /> 
 
 	<file src="vehicle/firetruk.dff" />
     <file src="vehicle/firetruk.txd" />

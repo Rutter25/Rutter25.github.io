@@ -20,10 +20,10 @@ function replaceskin()
 	dff = engineLoadDFF ( "sffd1.dff", 279)
 	engineReplaceModel ( dff, 279)
 
-	txd = engineLoadTXD ( "lvfd1.txd" )
-	engineImportTXD ( txd, 278)
-	dff = engineLoadDFF ( "lvfd1.dff", 278)
-	engineReplaceModel ( dff, 278)
+	--txd = engineLoadTXD ( "lvfd1.txd" )
+	--engineImportTXD ( txd, 278)
+	--dff = engineLoadDFF ( "lvfd1.dff", 278)
+	--engineReplaceModel ( dff, 278)
 
 
 	txd = engineLoadTXD ( "lapdm1.txd" )

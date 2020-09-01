@@ -1,0 +1,5 @@
+<meta>
+	<info author="Will" description="SAUR Bus Job - Outdated 30/07/2011. Get in a bus and drive from the Los santos rail way station car park, thru the markers bliped on the map." version="1" type="misc"/>
+	<script src="bus.lua"/>
+	<script src="bus_c.lua" type="client"/>
+</meta>
