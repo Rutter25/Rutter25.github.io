@@ -1,3 +1,7 @@
 <meta>
-    <script src="handling.lua" />
+    <script src="handling429.lua" />
+    <script src="handling400.lua" />
+    <script src="handling597.lua" />
+    <script src="handling490.lua" />
+    <script src="handling427.lua" />
 </meta>

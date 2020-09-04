@@ -1,6 +1,6 @@
 <meta>
     <oop>true</oop>
-    <info gamemodes="play" type="map" name="Münchenburg" author="Rutter25" version="1" description="ritzy"></info>
+    <info type="map" name="Münchenburg" author="Rutter25" version="1" description="ritzy"></info>
     <map src="Munchenburg.map" dimension="0"></map>
     <settings>
         <setting name="#maxplayers" value="[ 32 ]"></setting>
