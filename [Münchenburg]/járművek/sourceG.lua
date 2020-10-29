@@ -5,7 +5,7 @@ elements = {
 	{"copcarru", 599},
 	{"copbike", 523},
 	{"enforcer", 427},
-	{"fbiranch", 490},	
+	{"fbiranch", 585},	
 	{"Utility", 554},		
 	{"polmav", 497},
 	{"fbitruck", 528},
@@ -40,4 +40,5 @@ elements = {
 	{"burrito", 482},
 	{"rumpo", 440},
 	{"cheetah", 415},
-	}
+	--{"bobcat", 422},
+    }

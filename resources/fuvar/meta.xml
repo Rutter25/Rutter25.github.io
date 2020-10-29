@@ -1,0 +1,8 @@
+<meta>
+  <info author="bibbels" type="script" name="Job: Delivery driver" description="Delivery driver job for RPG gamemodes." version="1.0"/>
+  <script src="locations.lua" type="shared"/>
+  <script src="delivery_vehicles.lua" type="shared"/>
+  <script src="s_job.lua" type="server"/>
+  <script src="3dtext.lua" type="client"/>
+  <script src="c_job.lua" type="client"/>
+</meta>

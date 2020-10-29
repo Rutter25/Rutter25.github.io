@@ -1,8 +1,7 @@
 ﻿function vhandling ( theVehicle )
-	outputChatBox("Elindult")
 
     if getElementModel(theVehicle) == 429 then -------------- vehicle Id
-       outputChatBox("596")
+       
        -- setVehicleHandling(theVehicle, "mass", 300.0)
         --setVehicleHandling(theVehicle, "turnMass", 100)
         --setVehicleHandling(theVehicle, "dragCoeff", 4.0 )

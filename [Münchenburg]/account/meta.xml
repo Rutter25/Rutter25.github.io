@@ -1,0 +1,6 @@
+<meta>
+   <info author="Rutter25" name="account" version="alpha" type="gamemode"/>
+    	<script src="server.lua" type="server" />
+  		<script src="client.lua" type="client" />
+  		<file src="myimage.png" />
+</meta>

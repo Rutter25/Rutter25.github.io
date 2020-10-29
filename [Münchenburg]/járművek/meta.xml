@@ -129,4 +129,7 @@
      <file src="vehicle/swatvan.dff" />
     <file src="vehicle/swatvan.txd" />
 
+<!--     <file src="vehicle/bobcat.dff" />
+    <file src="vehicle/bobcat.txd" /> -->
+
 </meta>

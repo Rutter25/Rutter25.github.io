@@ -1,0 +1,8 @@
+<meta>
+	<info author="WorthlessCynomys" name="Roadblock" version="0.0.1" type="script" />
+	
+	<script src="shared.lua" type="shared" />
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+	
+</meta>

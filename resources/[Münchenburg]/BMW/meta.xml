@@ -1,0 +1,11 @@
+<meta>
+	<info author="VALDEZ" name="Polis Siren" version="1.0.1" type="misc" description="Emergency lights for Stage resource" />
+
+
+	<script src="bmw_s.lua" />
+	<script src="bmw.lua" type="client" />
+
+
+	<export function="isStroboLightsOn2" type="client"/>
+	<export function="setStroboLightsOn2" type="client"/>
+</meta>

@@ -1,0 +1,10 @@
+<meta>
+   <info author="Rutter25" name="Jatekosadatok" version="alpha" type="script"/>
+    	<script src="server.lua" type="server" />
+  		<script src="client.lua" type="client" />
+</meta>
+
+
+
+
+

@@ -19,6 +19,11 @@ engineImportTXD ( txd, 548 )
 dff = engineLoadDFF ( "cargobob.dff", 548) 			
 engineReplaceModel ( dff, 548)
 
+--[[txd = engineLoadTXD ( "bobcat.txd" ) 
+engineImportTXD ( txd, 422 ) 
+dff = engineLoadDFF ( "bobcat.dff", 422) 			
+engineReplaceModel ( dff, 422)--]]
+
 txd = engineLoadTXD ( "leviathn.txd" ) 
 engineImportTXD ( txd,  429) 
 dff = engineLoadDFF ( "leviathn.dff", 429) 			 
@@ -166,9 +171,9 @@ dff = engineLoadDFF ( "enforcer.dff", 427)
 engineReplaceModel ( dff, 427)
 
 txd = engineLoadTXD ( "fbiranch.txd" ) 
-engineImportTXD ( txd, 490)
-dff = engineLoadDFF ( "fbiranch.dff", 490) 
-engineReplaceModel ( dff, 490)
+engineImportTXD ( txd, 585)
+dff = engineLoadDFF ( "fbiranch.dff", 585) 
+engineReplaceModel ( dff, 585)
 
 txd = engineLoadTXD ( "fbitruck.txd" ) 
 engineImportTXD ( txd, 528)

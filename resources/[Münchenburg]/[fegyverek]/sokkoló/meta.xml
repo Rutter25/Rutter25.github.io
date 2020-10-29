@@ -1,0 +1,23 @@
+<meta>
+	<info author="Rutter25" type="script" version="4.0.0" name="Sokkoló fegyverek" />
+	
+			<!-- Client side files -->
+		<script src="gumilovedekes/ClientResource.lua" type="client" />
+		<script src="gumilovedekes/ClientWeapon.lua" type="client" />	
+	<!-- Server side Files -->
+		<script src="gumilovedekes/ServerWeapon.lua" type="server" />
+	<!-- Data Files -->	
+		<file src="gumilovedekes/data/chromegun.dff" />
+		<file src="gumilovedekes/data/chromegun.txd" />
+		<file src="gumilovedekes/data/Fire.wav" />
+
+				<script src="tasser/ClientResource.lua" type="client" />
+		<script src="tasser/ClientWeapon.lua" type="client" />	
+	<!-- Server side Files -->
+		<script src="tasser/ServerWeapon.lua" type="server" />
+	<!-- Data Files -->	
+		<file src="tasser/data/desert_eagle.dff" />
+		<file src="tasser/data/desert_eagle.txd" />
+		<file src="tasser/data/Fire.wav" />
+</meta>
+</meta>

@@ -1,6 +1,4 @@
-﻿function vhandling ( theVehicle )
-	outputChatBox("Elindult")
-
+function vhandling ( theVehicle )
     if getElementModel(theVehicle) == 597 then -------------- vehicle Id
        -- setVehicleHandling(theVehicle, "mass", 300.0)
         --setVehicleHandling(theVehicle, "turnMass", 100)
@@ -11,9 +9,9 @@
        -- setVehicleHandling(theVehicle, "tractionLoss", 0.9)
         --setVehicleHandling(theVehicle, "tractionBias", 0.48)
         setVehicleHandling(theVehicle, "numberOfGears", 5)
-        setVehicleHandling(theVehicle, "maxVelocity",  	30000.0)
-        setVehicleHandling(theVehicle, "engineAcceleration", 16.0 )
-        setVehicleHandling(theVehicle, "engineInertia", 5.0)
+        setVehicleHandling(theVehicle, "maxVelocity",  	290.0)
+        setVehicleHandling(theVehicle, "engineAcceleration", 22.0 )
+        setVehicleHandling(theVehicle, "engineInertia", 9.0)
         setVehicleHandling(theVehicle, "driveType", "awd")
         setVehicleHandling(theVehicle, "engineType", "diesel")
         setVehicleHandling(theVehicle, "brakeDeceleration", 20.0)

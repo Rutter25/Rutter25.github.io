@@ -1,0 +1,5 @@
+<meta>
+	      <info author="A neved" type="script" name="A szerverem" description="Az első MTA szerverem"/>
+    <script src="busz1.lua" type="server"></script>
+
+</meta>

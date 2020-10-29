@@ -1,0 +1,4 @@
+<meta>
+    <info name="Fire" author="Vanlot" description="This scrip allow you to create Fire" version="1.0" type="script"></info>
+    <script src="client.lua" type="client"></script>
+</meta>

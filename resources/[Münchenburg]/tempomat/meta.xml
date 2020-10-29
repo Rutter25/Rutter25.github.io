@@ -1,0 +1,4 @@
+<meta>
+	<info author="Panda" version="1" type="script" />
+	<script src="thescript.lua" type="client" />
+</meta>

@@ -1,0 +1,5 @@
+<meta>
+    <info author="Rutter25" type="script" name="kapuk" version="0.1" />
+    <script src="gate/gate_server.lua" type="server" />
+    
+</meta>

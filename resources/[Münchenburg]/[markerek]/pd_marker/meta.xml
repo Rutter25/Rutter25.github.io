@@ -1,0 +1,6 @@
+<meta>
+    <script src="teleport.lua" type="client"></script>
+    <script src="teleport2.lua" type="client"></script>
+    <script src="teleport3.lua" type="client"></script>
+    <script src="teleport4.lua" type="client"></script>
+</meta>

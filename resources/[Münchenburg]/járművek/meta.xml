@@ -1,0 +1,132 @@
+<meta>
+    <script src="sourceC.lua" type="client" />
+    <script src="sourceG.lua" type="shared" />
+    <file src="files/myriadproregular.ttf" />
+    <file src="files/logo.png" />
+    
+    
+	<file src="vehicle/copcarla.dff" />
+    <file src="vehicle/copcarla.txd" />
+
+    <file src="vehicle/rumpo.dff" />
+    <file src="vehicle/rumpo.txd" />
+
+    <file src="vehicle/cheetah.dff" />
+    <file src="vehicle/cheetah.txd" />
+
+
+    <file src="vehicle/raindanc.dff" />
+    <file src="vehicle/raindanc.txd" />
+
+     <file src="vehicle/elegant.dff" />
+    <file src="vehicle/elegant.txd" />
+
+    <file src="vehicle/petrotr.dff" />
+    <file src="vehicle/petrotr.txd" />
+
+	<file src="vehicle/cabbie.dff" />
+    <file src="vehicle/cabbie.txd" />
+
+    <file src="vehicle/farmtr1.dff" />
+    <file src="vehicle/farmtr1.txd" />
+
+	<file src="vehicle/burrito.dff" />
+    <file src="vehicle/burrito.txd" />
+
+	<file src="vehicle/towtruck.dff" />
+    <file src="vehicle/towtruck.txd" />
+
+	<file src="vehicle/tractor.dff" />
+    <file src="vehicle/tractor.txd" />
+
+	<file src="vehicle/combine.dff" />
+    <file src="vehicle/combine.txd" />
+
+	<file src="vehicle/trash.dff" />
+    <file src="vehicle/trash.txd" />
+
+	<file src="vehicle/Utility.dff" />
+    <file src="vehicle/Utility.txd" />
+
+	<file src="vehicle/taxi.dff" />
+    <file src="vehicle/taxi.txd" />
+
+    <file src="vehicle/elegy.dff" />
+    <file src="vehicle/elegy.txd" />
+
+  	<file src="vehicle/leviathn.dff" />
+    <file src="vehicle/leviathn.txd" />
+
+    <file src="vehicle/cargobob.dff" />
+    <file src="vehicle/cargobob.txd" />
+
+    <file src="vehicle/banshee.dff" />
+    <file src="vehicle/banshee.txd" />
+
+	<file src="vehicle/ambulan.dff" />
+    <file src="vehicle/ambulan.txd" />
+
+    <file src="vehicle/packer.dff" />
+    <file src="vehicle/packer.txd" />
+
+    <file src="vehicle/petro.dff" />
+    <file src="vehicle/petro.txd" />
+
+    <file src="vehicle/bus.dff" />
+    <file src="vehicle/bus.txd" />
+
+    <file src="vehicle/coach.dff" />
+    <file src="vehicle/coach.txd" />
+
+    <file src="vehicle/infernus.dff" />
+    <file src="vehicle/infernus.txd" />
+
+	<file src="vehicle/linerun.dff" />
+    <file src="vehicle/linerun.txd" />
+
+    <file src="vehicle/artict1.dff" />
+    <file src="vehicle/artict1.txd" />
+
+     <file src="vehicle/artict2.dff" />
+    <file src="vehicle/artict2.txd" />
+
+     <file src="vehicle/artict3.dff" />
+    <file src="vehicle/artict3.txd" />
+
+     <file src="vehicle/rdtrain.dff" />
+    <file src="vehicle/rdtrain.txd" />
+ 
+	<file src="vehicle/landstal.dff" />
+    <file src="vehicle/landstal.txd" /> 
+
+	<file src="vehicle/firetruk.dff" />
+    <file src="vehicle/firetruk.txd" />
+
+	<file src="vehicle/copcarsf.dff" />
+    <file src="vehicle/copcarsf.txd" />
+
+    <file src="vehicle/copcarvg.dff" />
+    <file src="vehicle/copcarvg.txd" />
+	
+	<file src="vehicle/copcarru.dff" />
+    <file src="vehicle/copcarru.txd" />
+
+    <file src="vehicle/copbike.dff" />
+    <file src="vehicle/copbike.txd" />
+	
+	<file src="vehicle/fbiranch.dff" />
+    <file src="vehicle/fbiranch.txd" />
+
+    <file src="vehicle/fbitruck.dff" />
+    <file src="vehicle/fbitruck.txd" />
+	
+	<file src="vehicle/polmav.dff" />
+    <file src="vehicle/polmav.txd" />
+
+    <file src="vehicle/enforcer.dff" />
+    <file src="vehicle/enforcer.txd" />
+
+     <file src="vehicle/swatvan.dff" />
+    <file src="vehicle/swatvan.txd" />
+
+</meta>

@@ -1,0 +1,48 @@
+<meta>
+    <info author="IaM" version="1.0" type="script"/>
+	<script src="script.lua" type="client" />
+	
+	<file src="lapd1.txd" />
+	<file src="lapd1.dff" />
+
+	<file src="lapdm1.txd" />
+	<file src="lapdm1.dff" />
+
+	<file src="sffd1.txd" />
+	<file src="sffd1.dff" />
+
+	<file src="lvfd1.txd" />
+	<file src="lvfd1.dff" />
+
+	<file src="lafd1.txd" />
+	<file src="lafd1.dff" />
+	
+	<file src="laemt1.txd" />
+	<file src="laemt1.dff" />
+
+	<file src="dsher.txd" />
+	<file src="dsher.dff" />
+
+	<file src="csher.txd" />
+	<file src="csher.dff" />
+
+	<file src="lvemt1.txd" />
+	<file src="lvemt1.dff" />
+
+	<file src="sfemt1.txd" />
+	<file src="sfemt1.dff" />
+
+	<file src="sfpd1.txd" />
+	<file src="sfpd1.dff" />
+
+	<file src="swat.txd" />
+	<file src="swat.dff" />
+
+	<file src="wfyclot.txd" />
+	<file src="wfyclot.dff" />
+
+	<file src="wmyclot.txd" />
+	<file src="wmyclot.dff" />
+
+
+</meta>

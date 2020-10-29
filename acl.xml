@@ -3,6 +3,7 @@
         <acl name="Default"></acl>
         <object name="user.Rutter25"></object>
         <object name="user.Jalos"></object>
+        <object name="user.Laci"></object>
     </group>
     <group name="Everyone">
         <acl name="Default"></acl>
